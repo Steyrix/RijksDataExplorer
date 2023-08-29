@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RijksDataExplorer</string>
+
+    <string name="overview_screen_title">Overview</string>
+    <string name="item_details_screen_title">1%$s Item Details</string>
+
+    <string name="back_button_desc">Navigate back</string>
+</resources>
